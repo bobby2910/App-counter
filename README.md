@@ -1,1 +1,1 @@
-# cars counter app amde with HTML, CSS and JavaScript
+# cars counter app made with HTML, CSS and JavaScript
